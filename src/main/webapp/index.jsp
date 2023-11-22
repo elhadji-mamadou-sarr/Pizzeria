@@ -493,6 +493,11 @@
 		</div>
 	</div>
 	<!-- end footer -->
+	Ajoate
+	Avant commit ugwfug
+	Et ceci est correcte
+	------------------------
+	
 	
 	<!-- copyright -->
 	<div class="copyright">
