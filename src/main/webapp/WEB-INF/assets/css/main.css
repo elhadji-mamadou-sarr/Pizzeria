@@ -1361,7 +1361,7 @@ a.mobile-show.search-bar-icon:hover {
 
 ----------------------------------------------------------------------------- */
 .hero-bg {
-  background-image: url(../img/hero-bg.jpg);
+  background-image: url(../img/pizza_1.jpeg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -1468,15 +1468,15 @@ input[type="submit"] {
 }
 
 .homepage-bg-1 {
-  background-image: url(../img/hero-bg.jpg);
+  background-image: url(pizza_2.jpeg);
 }
 
 .homepage-bg-2 {
-  background-image: url(../img/hero-bg-2.jpg);
+  background-image: url(assets/img/pizza_3.jpeg);
 }
 
 .homepage-bg-3 {
-  background-image: url(../img/hero-bg-3.jpg);
+  background-image: url(assets/img/pizza_marg_10.jpeg);
 }
 
 .homepage-slider {
@@ -1807,6 +1807,7 @@ span.comment-date {
   color: #051922;
 }
 
+
 .comment-template form p input[type=password] {
   border: 1px solid #ddd;
   width: 49%;
@@ -1836,7 +1837,6 @@ span.comment-date {
   resize: none;
   width: 100%;
 }
-
 
 .sidebar-section {
   margin-left: 30px;
@@ -2667,13 +2667,6 @@ tr.total-data td strong {
 }
 
 .billing-address-form form p input {
-  border: 1px solid #ddd;
-  padding: 15px;
-  width: 100%;
-  border-radius: 3px;
-}
-
-.billing-address-form form p select {
   border: 1px solid #ddd;
   padding: 15px;
   width: 100%;

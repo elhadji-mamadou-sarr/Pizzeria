@@ -8,7 +8,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import bean.Carte;
-import bean.Utilisateur;
 
 public class ListePlat_jdbc {
 	

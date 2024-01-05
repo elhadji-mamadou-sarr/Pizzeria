@@ -9,7 +9,7 @@ public class DatabaseConnectionManager {
 
     private final String dbURL = "jdbc:mysql://localhost/pizzeria";
     private final String username = "root";
-    private final String password = "root";
+    private final String password = "";
 
     private DatabaseConnectionManager() {
         try {

@@ -29,10 +29,11 @@
 	<!-- mean menu css -->
 	<link rel="stylesheet" href="assets/css/meanmenu.min.css">
 	<!-- main style -->
-	<link rel="stylesheet" href="assets/css/mabin.css">
+	<link rel="stylesheet" href="./assets/css/main.css">
 	<!-- responsive -->
 	<link rel="stylesheet" href="assets/css/responsive.css">
-	<link rel="stylesheet" href="style.css" >
+
+	
 
 </head>
 <body>
@@ -170,7 +171,7 @@
 						</div>
 						<div class="content">
 							<h3>Livraison gratuite</h3>
-							<p>Pour une commande supérieure à 20.000 fcfa</p>
+							<p>Pour une commande supï¿½rieure ï¿½ 20.000 fcfa</p>
 						</div>
 					</div>
 				</div>
@@ -181,7 +182,7 @@
 						</div>
 						<div class="content">
 							<h3>Assistance 24h/24 et 7j/7</h3>
-							<p>Obtenez de l'aide toute la journée</p>
+							<p>Obtenez de l'aide toute la journï¿½e</p>
 						</div>
 					</div>
 				</div>
@@ -251,12 +252,12 @@
                             </div>
                         </div>
                     	<img src="assets/img/image_1.jpeg" alt="">
-                    </div>
+                    </div> 	
                 </div>
                 <!--Content Column-->
                 <div class="content-column col-lg-6">
-					<h3><span class="orange-text">Deal</span> of the month</h3>
-                    <h4>Hikan Strwaberry</h4>
+					<h3><span class="orange-text">L'offre</span> du mois</h3>
+                    <h4>Pizza Vï¿½gï¿½tale</h4>
                     <div class="text">Quisquam minus maiores repudiandae nobis, minima saepe id, fugit ullam similique! Beatae, minima quisquam molestias facere ea. Perspiciatis unde omnis iste natus error sit voluptatem accusant</div>
                     <!--Countdown Timer-->
                     <div class="time-counter"><div class="time-countdown clearfix" data-countdown="2020/2/01"><div class="counter-column"><div class="inner"><span class="count">00</span>Days</div></div> <div class="counter-column"><div class="inner"><span class="count">00</span>Hours</div></div>  <div class="counter-column"><div class="inner"><span class="count">00</span>Mins</div></div>  <div class="counter-column"><div class="inner"><span class="count">00</span>Secs</div></div></div></div>
@@ -333,7 +334,7 @@
 				</div>
 				<div class="col-lg-6 col-md-12">
 					<div class="abt-text">
-						<p class="top-sub">Depuis l'année 1999</p>
+						<p class="top-sub">Depuis l'annï¿½e 1999</p>
 						<h2>Nous somme <span class="orange-text">Pizza-rix</span></h2>
 						<p>Etiam vulputate ut augue vel sodales. In sollicitudin neque et massa porttitor vestibulum ac vel nisi. Vestibulum placerat eget dolor sit amet posuere. In ut dolor aliquet, aliquet sapien sed, interdum velit. Nam eu molestie lorem.</p>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente facilis illo repellat veritatis minus, et labore minima mollitia qui ducimus.</p>
@@ -348,8 +349,8 @@
 	<!-- shop banner -->
 	<section class="shop-banner">
     	<div class="container">
-        	<h3>La vente en décembre est en cour. avec une grande! <br>reductioon <span class="orange-text">Discount...</span></h3>
-            <div class="sale-percent"><span>allant <br> jusqu'à</span>50%</div>
+        	<h3>La vente en dï¿½cembre est en cour. avec une grande! <br>reductioon <span class="orange-text">Discount...</span></h3>
+            <div class="sale-percent"><span>allant <br> jusqu'ï¿½</span>50%</div>
             <a href="shop.html" class="cart-btn btn-lg">Acheter Maintenant</a>
         </div>
     </section>
@@ -379,7 +380,7 @@
 								<span class="date"><i class="fas fa-calendar"></i> 27 December, 2019</span>
 							</p>
 							<p class="excerpt">Vivamus lacus enim, pulvinar vel nulla sed, scelerisque rhoncus nisi. Praesent vitae mattis nunc, egestas viverra eros.</p>
-							<a href="single-news.html" class="read-more-btn">En savoir plus <i class="fas fa-angle-right"></i></a>
+							<a href="" class="read-more-btn">En savoir plus <i class="fas fa-angle-right"></i></a>
 						</div>
 					</div>
 				</div>
@@ -393,7 +394,7 @@
 								<span class="date"><i class="fas fa-calendar"></i> 27 December, 2019</span>
 							</p>
 							<p class="excerpt">Vivamus lacus enim, pulvinar vel nulla sed, scelerisque rhoncus nisi. Praesent vitae mattis nunc, egestas viverra eros.</p>
-							<a href="single-news.html" class="read-more-btn">En savoir plus<i class="fas fa-angle-right"></i></a>
+							<a href="" class="read-more-btn">En savoir plus<i class="fas fa-angle-right"></i></a>
 						</div>
 					</div>
 				</div>
@@ -401,20 +402,20 @@
 					<div class="single-latest-news">
 						<a href=""><div class="latest-news-bg news-bg-3"></div></a>
 						<div class="news-text-box">
-							<h3><a href="">De bonnes pensées portent de bons plat chaud et juteux.</a></h3>
+							<h3><a href="">De bonnes pensï¿½es portent de bons plat chaud et juteux.</a></h3>
 							<p class="blog-meta">
 								<span class="author"><i class="fas fa-user"></i> Admin</span>
 								<span class="date"><i class="fas fa-calendar"></i> 27 December, 2019</span>
 							</p>
 							<p class="excerpt">Vivamus lacus enim, pulvinar vel nulla sed, scelerisque rhoncus nisi. Praesent vitae mattis nunc, egestas viverra eros.</p>
-							<a href="single-news.html" class="read-more-btn">En savoir plus <i class="fas fa-angle-right"></i></a>
+							<a href="" class="read-more-btn">En savoir plus <i class="fas fa-angle-right"></i></a>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-lg-12 text-center">
-					<a href="news.html" class="boxed-btn">Plus d'informations</a>
+					<a href="" class="boxed-btn">Plus d'informations</a>
 				</div>
 			</div>
 		</div>
@@ -461,7 +462,7 @@
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<div class="footer-box get-in-touch">
-						<h2 class="widget-title">Nos coordonnées</h2>
+						<h2 class="widget-title">Nos coordonnï¿½es</h2>
 						<ul>
 							<li>34/8, Cite du Savoir, Diamniadio.</li>
 							<li>support@fruitkha.com</li>
@@ -482,7 +483,7 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="footer-box subscribe">
 						<h2 class="widget-title">S'abonner</h2>
-						<p>Inscrivez-vous à notre liste de diffusion pour obtenir les dernières mises à jour.</p>
+						<p>Inscrivez-vous ï¿½ notre liste de diffusion pour obtenir les derniï¿½res mises ï¿½ jour.</p>
 						<form action="">
 							<input type="email" placeholder="Email">
 							<button type="submit"><i class="fas fa-paper-plane"></i></button>
@@ -497,7 +498,7 @@
 	Avant commit ugwfug
 	Et ceci est correcte
 	------------------------
-	
+	Changement 
 	
 	<!-- copyright -->
 	<div class="copyright">

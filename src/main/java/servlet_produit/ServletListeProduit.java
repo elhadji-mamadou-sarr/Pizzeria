@@ -16,8 +16,6 @@ import javax.servlet.http.Part;
 
 import bean.Carte;
 import jdbc.ListePlat_jdbc;
-import jdbc.ListeUserJdbc;
-import jdbc.ModifierProduitJdbc;
 import jdbc.PosterJdbc;
 
 /**
@@ -88,7 +86,7 @@ public class ServletListeProduit extends HttpServlet {
 			bean.setDescription(description);
 			bean.setDisponibilité(dispo);
 			bean.setImage(fileName);																																																																																																																																																																																																																																																																																																					bean.setImage(fileName);
-																																																																																																																																																																																																																																																																																																												System.out.println(bean.getImage());
+			System.out.println("Fichier " + fileName);																																																																																																																																																																																																																																																																																																		System.out.println(bean.getImage());
 			PosterJdbc post = new PosterJdbc();
 			post.Poster(bean);
 			
